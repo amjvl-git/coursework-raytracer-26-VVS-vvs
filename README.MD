@@ -1,5 +1,5 @@
 # 🌌 JS-Ray-Tracer
-## P2896241
+## P2896241 | Vadym Serzheniuk
 
 My implementation of a recursive ray tracing engine built from scratch  using Vanilla JavaScript. This project demonstrates understanding of the core principles of the ray tracing pipeline, such ray generation, ray to sphere intersection, phong lightning model with basic specular shading and shadows as states on assesment specs. 
 
