@@ -72,4 +72,4 @@ Where $\mathbf{V}$ is the incoming ray and $\mathbf{N}$ is the surface normal.
 
 ## ✉️ Original repo link
 
-Project Link: [https://github.com/VVS-vvs/js-ray-tracer](https://www.google.com/search?q=https://github.com/VVS-vvs/js-ray-tracer)
+Project Link: [https://github.com/VVS-vvs/js-ray-tracer](https://github.com/VVS-vvs/js-ray-tracer)
