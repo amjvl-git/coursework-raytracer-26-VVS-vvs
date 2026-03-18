@@ -31,6 +31,14 @@ git clone https://github.com/VVS-vvs/js-ray-tracer.git
 cd js-ray-tracer
 ```
 
+or
+
+```bash
+git clone https://github.com/amjvl-git/coursework-raytracer-26-VVS-vvs?tab=readme-ov-file
+cd js-ray-tracer
+```
+
+
 ### 3\. Running the Project
 
 Simply open `index.html` in your browser.
